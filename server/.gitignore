@@ -1,0 +1,5 @@
+node_modules
+.env
+nodemon.json
+notes.txt
+todo.txt 
